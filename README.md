@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Surajit-Dhar/github-readme-activity-graph"><img alt="Surajit Dhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surajit-Dhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
- <h3>## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60"/>Connect with me: </h3>
+ <h3>## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" margin-top="12px"/>Connect with me: </h3>
 <p align="left">
 <p align="left">
 <a href="https://linkedin.com/in/surajit dhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajit dhar" height="30" width="40" /></a>
