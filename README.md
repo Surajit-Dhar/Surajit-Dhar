@@ -69,4 +69,9 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajit-dhar&show_icons=true&locale=en" alt="surajit-dhar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajit-dhar&" alt="surajit-dhar" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajit-dhar&" alt="surajit-dhar" /></p> -->
+<p align="center">
+    <a href="https://github.com/surajit-dhar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="surajit-dhar" src="https://github-readme-streak-stats.herokuapp.com/?user=surajit-dhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
