@@ -63,7 +63,7 @@ Here are some ideas to get you started:
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="surajit-dhar" src="https://github-readme-streak-stats.herokuapp.com/?user=surajit-dhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-## <h3>📊 My Github Stats</h3>
+<h3>📊 My Github Stats</h3>
 
   <br/>
    <a href="https://github.com/Surajit-Dhar/github-readme-stats"><img alt="Surajit Dhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Surajit-Dhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
  <h3> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="76" margin-top="78"/>Connect with me: </h3>
 <p align="left">
 <p align="left">
-<a href="https://linkedin.com/in/surajit dhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajit dhar" height="30" width="40" /></a>
+&ensp;<a href="https://linkedin.com/in/surajit dhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajit dhar" height="30" width="40" /></a>
 <a href="https://medium.com/@surajitgokarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@surajitgokarna" height="30" width="40" /></a>
 </p>
 
