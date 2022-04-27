@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Surajit Dhar</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajit-dhar" alt="surajit-dhar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajit-dhar" alt="surajit-dhar" /></a> </p>
 <ul>
   
 🔭 I’m currently working on 
