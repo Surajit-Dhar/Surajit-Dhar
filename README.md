@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Surajit Dhar </h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
-<a href="#"><img width="100%" height="320px" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
+<a href="#"><img width="100%" height="340px" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajit-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="surajit-dhar" /> </p>
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <br/>
 <h3>## ❤ Views and Followers</h3>
 <br/>
-<a href="https://github.com/Surajit-Dhar/github-profile-views-counter">
+&ensp;&nbsp;<a href="https://github.com/Surajit-Dhar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Surajit-Dhar">
 </a>
 <a href="https://github.com/Surajit-Dhar?tab=followers"><img src="https://img.shields.io/github/followers/Surajit-Dhar?label=Followers&style=social" alt="GitHub Badge"></a>
