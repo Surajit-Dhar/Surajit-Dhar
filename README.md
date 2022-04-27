@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Surajit Dhar </h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
+<h2 align="center">Aspiring Full-Stack Web Developer from India</h2>
 <a href="#"><img width="100%" height="340px" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajit-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="surajit-dhar" /> </p>
@@ -68,6 +68,8 @@ Here are some ideas to get you started:
    <a href="https://github.com/Surajit-Dhar/github-readme-stats"><img alt="Surajit Dhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Surajit-Dhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <br/>
  <a href="https://github.com/Surajit-Dhar/github-readme-stats"><img alt="Surajit Dhar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Dhar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <br/>
+ <p align="left"> <a href="https://github.com/Surajit-Dhar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Surajit-Dhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Surajit-Dhar" /></a> </p>
     
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
