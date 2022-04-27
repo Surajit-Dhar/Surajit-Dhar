@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full-Stack Web Developer at Masai School**
 
-- 👯 I’m looking to collaborate on **front-end & back-end projects**
-
 - 🤝 I’m looking for help with [Pluralsight Clone](https://pluralsight-clone-1.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://youtube.com](https://youtube.com)
@@ -38,7 +36,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10Ocb7XbnDXJ_dhWJGtsJefIjfIRicWwX/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am happy😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,11 +62,7 @@ Here are some ideas to get you started:
     <a href="https://www.adobe.com/in/products/xd.html" target="_blank"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="adobe xd"/> </a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajit-dhar&show_icons=true&locale=en&layout=compact" alt="surajit-dhar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajit-dhar&show_icons=true&locale=en" alt="surajit-dhar" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajit-dhar&" alt="surajit-dhar" /></p> -->
 <p align="center">
     <a href="https://github.com/surajit-dhar/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="surajit-dhar" src="https://github-readme-streak-stats.herokuapp.com/?user=surajit-dhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -88,3 +81,11 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<a href="https://github.com/Surajit-Dhar/github-readme-activity-graph"><img alt="Surajit Dhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surajit-Dhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chiranjeev-thapliyal">
+</a>
+<a href="https://github.com/chiranjeev-thapliyal?tab=followers"><img src="https://img.shields.io/github/followers/chiranjeev-thapliyal?label=Followers&style=social" alt="GitHub Badge"></a>
