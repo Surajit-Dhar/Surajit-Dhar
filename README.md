@@ -88,6 +88,6 @@ Here are some ideas to get you started:
 <h3>&ensp; ❤ Views and Followers</h3>
 <br/>
 <a href="https://github.com/Surajit-Dhar/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Surajit-Dhar">
+   &ensp;&nbsp; <img src="https://komarev.com/ghpvc/?username=Surajit-Dhar">
 </a>
-<a href="https://github.com/Surajit-Dhar?tab=followers"><img src="https://img.shields.io/github/followers/Surajit-Dhar?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Surajit-Dhar?tab=followers">&ensp;&nbsp;<img src="https://img.shields.io/github/followers/Surajit-Dhar?label=Followers&style=social" alt="GitHub Badge"></a>
