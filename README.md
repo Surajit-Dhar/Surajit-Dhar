@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 </p>
 <h3>📊 My Github Stats</h3>
 
-  <br/>
    <a href="https://github.com/Surajit-Dhar/github-readme-stats"><img alt="Surajit Dhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Surajit-Dhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <br/>
  <a href="https://github.com/Surajit-Dhar/github-readme-stats"><img alt="Surajit Dhar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajit-Dhar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -86,7 +85,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@surajitgokarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@surajitgokarna" height="30" width="40" /></a>
 </p>
 
-<h3> ❤ Views and Followers</h3>
+<h3>&ensp; ❤ Views and Followers</h3>
 <br/>
 <a href="https://github.com/Surajit-Dhar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Surajit-Dhar">
