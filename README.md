@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Surajit Dhar</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer from India</h3>
-<a href="#"><img width="100%" height="250px" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
+<a href="#"><img width="100%" height="320px" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajit-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="surajit-dhar" /> </p>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://youtube.com](https://youtube.com)
 
-- 📝 I regularly write articles on [https://medium.com/@surajitgokarna/building-the-clone-of-amazon-prime-video-a8836c6e78a](https://medium.com/@surajitgokarna/building-the-clone-of-amazon-prime-video-a8836c6e78a)
+- 📝 I regularly write articles on [Amazon-Prime-Video Blog](https://medium.com/@surajitgokarna/building-the-clone-of-amazon-prime-video-a8836c6e78a)
 
 - 📫 How to reach me **surajitgokarna@gmail.com**
 
