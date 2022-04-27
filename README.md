@@ -29,22 +29,14 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [Pluralsight Clone](https://pluralsight-clone-1.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://youtube.com](https://youtube.com)
+- 👨‍💻 All of my projects are available at [My Portfolio...](https://youtube.com)
 
 - 📝 I regularly write articles on [Amazon-Prime-Video Blog](https://medium.com/@surajitgokarna/building-the-clone-of-amazon-prime-video-a8836c6e78a)
 
 - 📫 How to reach me **surajitgokarna@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10Ocb7XbnDXJ_dhWJGtsJefIjfIRicWwX/view?usp=sharing)
+- 📄 Know about my experiences [Resume...](https://drive.google.com/file/d/10Ocb7XbnDXJ_dhWJGtsJefIjfIRicWwX/view?usp=sharing)
 
-
-
-##  <i><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80"/>Connect with me: </i>
-<p align="left">
-<p align="left">
-<a href="https://linkedin.com/in/surajit dhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajit dhar" height="30" width="40" /></a>
-<a href="https://medium.com/@surajitgokarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@surajitgokarna" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -86,6 +78,13 @@ Here are some ideas to get you started:
 <br/>
 <a href="https://github.com/Surajit-Dhar/github-readme-activity-graph"><img alt="Surajit Dhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surajit-Dhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+<br/>
+##  <i><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80"/>Connect with me: </i>
+<p align="left">
+<p align="left">
+<a href="https://linkedin.com/in/surajit dhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajit dhar" height="30" width="40" /></a>
+<a href="https://medium.com/@surajitgokarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@surajitgokarna" height="30" width="40" /></a>
+</p>
 <br/>
 <h3>## ❤ Views and Followers</h3>
 <br/>
