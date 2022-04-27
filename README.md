@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **surajitgokarna@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10Ocb7XbnDXJ_dhWJGtsJefIjfIRicWwX/view?usp=sharing](https://drive.google.com/file/d/10Ocb7XbnDXJ_dhWJGtsJefIjfIRicWwX/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10Ocb7XbnDXJ_dhWJGtsJefIjfIRicWwX/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am happy😊**
 
