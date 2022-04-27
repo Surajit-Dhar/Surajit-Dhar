@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajit-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="surajit-dhar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajit-dhar" alt="surajit-dhar" /></a> </p> -->
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on [YouTube Clone](https://you-tube-colne.vercel.app/)
 
@@ -37,7 +38,9 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10Ocb7XbnDXJ_dhWJGtsJefIjfIRicWwX/view?usp=sharing)
 
 
-<h3 align="left">Connect with me:</h3>
+
+##  <i><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80"/>Connect with me: </i>
+<p align="left">
 <p align="left">
 <a href="https://linkedin.com/in/surajit dhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajit dhar" height="30" width="40" /></a>
 <a href="https://medium.com/@surajitgokarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@surajitgokarna" height="30" width="40" /></a>
