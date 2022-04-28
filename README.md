@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [My Portfolio...](https://youtube.com)
 
-- 📝 I regularly write articles on [Amazon-Prime-Video Blog](https://medium.com/@surajitgokarna/building-the-clone-of-amazon-prime-video-a8836c6e78a)
+<!-- - 📝 I regularly write articles on [Amazon-Prime-Video Blog](https://medium.com/@surajitgokarna/building-the-clone-of-amazon-prime-video-a8836c6e78a) -->
 
 - 📫 How to reach me **surajitgokarna@gmail.com**
 
