@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [Pluralsight Clone](https://pluralsight-clone-1.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio...](https://my-portfolio-rosy-zeta.vercel.app/#/)
+- 👨‍💻 All of my projects are available at [My Portfolio...](https://surajit-dhar-portfolio.vercel.app)
 
 <!-- - 📝 I regularly write articles on [Amazon-Prime-Video Blog](https://medium.com/@surajitgokarna/building-the-clone-of-amazon-prime-video-a8836c6e78a) -->
 
