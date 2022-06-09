@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Surajit Dhar </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Surajit Dhar </h1>
 <h2 align="center">Aspiring Full-Stack Web Developer from India <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-web-development-mobile-app-development-flaticons-lineal-color-flat-icons.png" width="54px"/> </h2>
 <a href="#"><img width="100%" height="340px" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
 
