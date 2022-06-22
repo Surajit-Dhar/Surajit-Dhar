@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, 👋 I'm Surajit Dhar </h1>
-<h2 align="center">Aspiring Full-Stack Web Developer from India <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-web-development-mobile-app-development-flaticons-lineal-color-flat-icons.png" width="54px"/> </h2>
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+</p><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-web-development-mobile-app-development-flaticons-lineal-color-flat-icons.png" width="54px"/>
 <a href="#"><img width="100%" height="360px" src="https://images.unsplash.com/photo-1624378515195-6bbdb73dff1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" height="235px"/></a>
 
 
