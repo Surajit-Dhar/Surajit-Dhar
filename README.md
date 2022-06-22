@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, 👋 I'm Surajit Dhar </h1>
 <h2 align="center">Aspiring Full-Stack Web Developer from India <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-web-development-mobile-app-development-flaticons-lineal-color-flat-icons.png" width="54px"/> </h2>
-<a href="#"><img width="100%" height="340px" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
+<a href="#"><img width="100%" height="340px" src="[https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60)" height="175px"/></a>
 
 
 ## 🙋‍♂️ About Me
