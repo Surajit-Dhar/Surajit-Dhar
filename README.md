@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ffc439&size=25&lines=Welcome+to+my+GitHub+Profile!;Aspiring+a+Full-Stack+web+developer+..+" /></a>
 </p>
-<a href="#"><img width="100%" height="390px" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80"/></a>
+<a href="#"><img width="100%" height="390px" src="https://images.unsplash.com/photo-1624377632657-3902bfd35958?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/></a>
 
 
 ## 🙋‍♂️ About Me
