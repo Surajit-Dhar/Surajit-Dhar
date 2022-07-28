@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **surajitgokarna@gmail.com**
 
-- 📄 Know about my experiences [Resume...](https://drive.google.com/file/d/10Ocb7XbnDXJ_dhWJGtsJefIjfIRicWwX/view?usp=sharing)
+- 📄 Know about my experiences [Resume...](https://drive.google.com/file/d/1f3hTfDhilS06r_Bu79LQfyDziTikgx2d/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
