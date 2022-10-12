@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-593D88?style=for-the-badge&logo=express&logoColor=white" alt="express" /> </a>
 </p>
 
 
